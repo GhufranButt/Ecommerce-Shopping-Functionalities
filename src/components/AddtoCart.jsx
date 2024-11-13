@@ -27,7 +27,7 @@ export default function AddtoCart() {
               return (
                 <tr key={index}>
                   <td>
-                    <img src={image} style={{ height: "1rem" }} />
+                    <img src="" style={{ height: "1rem" }} />
                   </td>
                   <td> Title : {item.title}</td>
                   <td> Price : ${item.price}</td>
